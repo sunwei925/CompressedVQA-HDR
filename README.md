@@ -26,6 +26,13 @@ To overcome the scarcity of HDR training data, we implement a sophisticated trai
 
 Our experimental results demonstrate that CompressedVQA-HDR achieves state-of-the-art performance compared to existing FR and NR VQA models. Notably, **CompressedVQA-HDR-FR secured first place in the FR track and second place in the NR track** of the Generalizable HDR & SDR Video Quality Measurement Grand Challenge at IEEE ICME 2025.
 
+
+## 🏗️ Model Architecture
+
+<div align="center">
+<img src="./figures/HDR_VQA_framework.PNG" width="800px">
+</div>
+
 ## 📦 Installation
 
 ### Prerequisites
@@ -111,8 +118,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-<div align="center">
+
 
 **⭐ Star this repository if you find it helpful!**
-
-</div>
